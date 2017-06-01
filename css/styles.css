@@ -1,0 +1,48 @@
+@font-face {
+  font-family: "jurassic";
+  src: url("../fonts/Jurassic Park.ttf");
+}
+.navbottom {
+  background-color: #d6504d;
+  border-bottom: 4px solid #fce53b;
+}
+
+.navtop {
+  background-color: #c04845;
+}
+
+.navtop img {
+  height: 100px;
+  margin-top: 6px;
+}
+
+.logo {
+  position: absolute;
+  width: 10vmax;
+  height: auto;
+  left: 3%;
+  top: 5%;
+}
+
+.header {
+  font-family: jurassic;
+  font-size: 9vmax;
+  white-space: pre;
+  color: #d6504d;
+}
+
+.white {
+  background-image: url(../img/wood.jpg);
+  border-top: 10px solid #fce53b;
+  border-bottom: 10px solid #fce53b;
+}
+
+.page-footer {
+  background-color: #d6504d;
+}
+
+.welcome {
+  margin-left: 3%;
+  font-size: 2em;
+  font-family: 'Alegreya Sans SC', sans-serif;
+}
